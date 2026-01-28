@@ -1,0 +1,7 @@
+mock
+pytest
+pynose
+nosexcover
+kubernetes
+cvpysdk
+kopf
